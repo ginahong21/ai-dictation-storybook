@@ -1,0 +1,1 @@
+.ds-pagebg{position:relative;min-height:100%;background-color:var(--ad-sys-color-surface-page-bottom)}.ds-pagebg--light{background-image:var(--ad-sys-gradient-page-glow),var(--ad-sys-gradient-page)}.ds-pagebg--deep{background-image:var(--ad-sys-gradient-page-glow),var(--ad-sys-gradient-page-deep)}
